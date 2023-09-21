@@ -1,0 +1,18 @@
+{
+    "name": "hexlet-php/hexlet-project",
+    "description": "1st trying to install composer",
+    "type": "project",
+    "license": "osp",
+    "autoload": {
+        "psr-4": {
+            "HexletPhp\\HexletProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AnNikonov",
+            "email": "nikonov.web@gmail.com"
+        }
+    ],
+    "require": {}
+}
